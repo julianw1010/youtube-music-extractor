@@ -1,0 +1,73 @@
+# Music downloads folder
+Music/
+music/
+
+# Generated data folders
+Step 2/artistplaylists/
+artistplaylists/
+
+# Sensitive files - cookies and authentication
+cookies.txt
+**/cookies.txt
+
+# Generated playlist and channel lists
+channels.txt
+playlist.txt
+bestof.txt
+musicarchivebestof.txt
+
+# Source/debug files
+youtube_music_library_source.txt
+debug_page_source*.html
+
+# Processing state files
+processed_urls.txt
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Chrome/Selenium profiles (if accidentally included)
+SeleniumProfile/
+.config/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Logs
+*.log
+log/
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Archive files (in case you zip downloads)
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar

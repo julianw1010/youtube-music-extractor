@@ -1,0 +1,1 @@
+yt-dlp --cookies "../Step 3/cookies.txt" -o "../music/bestof/%(playlist_title)s/%(title)s.%(ext)s" --download-archive musicarchivebestof.txt --embed-thumbnail --embed-metadata -f bestaudio -x --audio-format mp3 --audio-quality 320k -a bestof.txt
